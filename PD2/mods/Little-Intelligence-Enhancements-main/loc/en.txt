@@ -1,0 +1,41 @@
+{
+	"menu_lies_title" : "Little Intelligence EnhancementS Options",
+	
+	"menu_lies_lua_cover_title" : "Take Cover Through LUA",
+	"menu_lies_lua_cover_desc" : "Improves how cops take cover from players by using custom cover-finding functions instead of the original ones. Not accurate to Vanilla. NOTE: Requires a heist restart to take effect.",
+	
+	"menu_lies_jokerhurts_title" : "No Joker Stagger",
+	"menu_lies_jokerhurts_desc" : "Makes Jokers unable to be staggered by enemy attacks which allows them to follow players better. Not accurate to Vanilla.",
+	
+	"menu_lies_fixed_spawngroups_title" : "Spawngroup Tweaks",
+	"menu_lies_fixed_spawngroups_desc" : "Fix missing spawns, and reduce spawning RNG to force more consistent behavior. Settings other than *Vanilla* are not accurate to Vanilla...obviously. NOTE: Requires a heist restart to take effect.",
+	"menu_lies_spawngroups_off" : "Vanilla",
+	"menu_lies_spawngroups_norng" : "Vanilla Low RNG",
+	"menu_lies_spawngroups_fixed" : "Fixed",
+	"menu_lies_spawngroups_fixnorng" : "Fixed Low RNG",
+
+	"menu_lies_specialdelay_title" : "Special Enemy Reaction Delays",
+	"menu_lies_specialdelay_desc" : "Add a small delay before special enemies can execute their special attacks upon targetting a valid heister. Not accurate to Vanilla.",
+	
+	"menu_lies_fixed_specialspawncaps_title" : "Fixed Special Spawncap",
+	"menu_lies_fixed_specialspawncaps_desc" : "Fixes Minigun Bulldozers, Medicdozers, and Phalanx Shields not counting towards their respective spawncaps. Not accurate to Vanilla.",
+	
+	"menu_lies_copsretire_title" : "Allow Assault Groups To Retire",
+	"menu_lies_copsretire_desc" : "Allows enemy groups spawned during assault to leave the assault area when the assault is ending. Not accurate to Vanilla.",
+	
+	"menu_lies_enemy_aggro_level_title" : "Aggression Level",
+	"menu_lies_enemy_aggro_level_desc" : "Adjust how aggressive you want enemies to be. The *Mosh Pit* setting is the closest to Vanilla.",
+	"menu_lies_enemy_aggro_low" : "LOW",
+	"menu_lies_enemy_aggro_normal" : "NORMAL",
+	"menu_lies_enemy_aggro_high" : "HIGH",
+	"menu_lies_enemy_aggro_poggers" : "MOSH PIT",
+	
+	"menu_lies_teamaihelpers_title" : "Team AI QOL",
+	"menu_lies_teamaihelpers_desc" : "Allows Team AI to help players with escorts and surrendering cops. Not accurate to Vanilla.",
+	
+	"menu_lies_interruptoncontact_title" : "Smart Engagement",
+	"menu_lies_interruptoncontact_desc" : "Minimizes the tendency for enemies to continue moving into danger if engaging at a distance would be viable for their purposes. Not accurate to Vanilla.",
+	
+	"menu_lies_spawngroupdelays_title" : "Forced Spawn Delays",
+	"menu_lies_spawngroupdelays_desc" : "Prevents enemy spawn group cooldown timers being reset when no other groups can spawn, reducing cases of enemies constantly pouring out of nearby spawn points. Not accurate to Vanilla.",
+}

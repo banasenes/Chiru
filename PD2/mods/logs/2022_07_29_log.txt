@@ -1,0 +1,140 @@
+05:12:22 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "A:\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe" 
+05:12:22 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:352) Scanning for signatures in payday2_win32_release.exe
+05:12:22 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:405) Scanned for 57 signatures in 94 milliseconds with 0 cache misses
+05:12:22 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+05:13:14 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "A:\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe" 
+05:13:14 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:352) Scanning for signatures in payday2_win32_release.exe
+05:13:14 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:405) Scanned for 57 signatures in 0 milliseconds with 0 cache misses
+05:13:14 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+05:13:14 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "A:\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe"
+05:13:14 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:352) Scanning for signatures in payday2_win32_release.exe
+05:13:14 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:405) Scanned for 57 signatures in 0 milliseconds with 0 cache misses
+05:13:14 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+05:13:24 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "A:\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe" 
+05:13:24 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:352) Scanning for signatures in payday2_win32_release.exe
+05:13:24 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:405) Scanned for 57 signatures in 0 milliseconds with 0 cache misses
+05:13:24 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+05:13:25 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "A:\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe"
+05:13:25 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:352) Scanning for signatures in payday2_win32_release.exe
+05:13:25 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:405) Scanned for 57 signatures in 0 milliseconds with 0 cache misses
+05:13:25 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+05:13:31 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "A:\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe"
+05:13:31 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:352) Scanning for signatures in payday2_win32_release.exe
+05:13:31 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:405) Scanned for 57 signatures in 0 milliseconds with 0 cache misses
+05:13:31 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+05:13:31 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+05:13:35 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+05:13:35 AM Lua: [INFO] [BLT] Setup... 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+05:13:35 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+05:13:35 AM Lua: [INFO] [BLT] Removing log: 2022_07_27_log.txt 
+05:13:35 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x001c8d40 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: base 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: cableties-and-hostages 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Drone Sentries 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Jammed Drill Rollin 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Little-Intelligence-Enhancements-main 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Meth Helper Updated 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Meth Lab Basement 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: More loot from lootbags 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Realtime XP 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: TacticalReloading 
+05:13:35 AM Lua: [ERROR] Could not load file 'mods/saves/blt_data.txt', no data loaded... 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  base 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Jammed Drill Rollin 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Realtime XP 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Meth Lab Basement 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  More loot from lootbags 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Meth Helper Updated 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Little-Intelligence-Enhancements-main 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  cableties-and-hostages 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Drone Sentries 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  TacticalReloading 
+05:13:35 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+05:13:35 AM Lua: [INFO] [BLT] Setup... 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+05:13:35 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+05:13:35 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+05:13:35 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x001c8d00 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: base 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: cableties-and-hostages 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Drone Sentries 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Jammed Drill Rollin 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Little-Intelligence-Enhancements-main 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Meth Helper Updated 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Meth Lab Basement 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: More loot from lootbags 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: Realtime XP 
+05:13:35 AM Lua: [INFO] [BLT] Loading mod: TacticalReloading 
+05:13:35 AM Lua: [ERROR] Could not load file 'mods/saves/blt_data.txt', no data loaded... 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  base 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Jammed Drill Rollin 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Realtime XP 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Meth Lab Basement 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  More loot from lootbags 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Meth Helper Updated 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Little-Intelligence-Enhancements-main 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  cableties-and-hostages 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  Drone Sentries 
+05:13:35 AM Lua: [INFO] [BLT] Setting up mod:  TacticalReloading 
+05:13:36 AM Log:  (C:\projects\payday2-superblt\src\xaudio\XAudio.cpp:132) Loaded OpenAL XAudio API
+05:13:37 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:975) Initiating Hook
+05:13:37 AM Lua: [INFO] [BLT] Setup... 
+05:13:37 AM Lua: [INFO] [BLT] Loading module: BLTLogs 
+05:13:37 AM Lua: [INFO] [BLT] Loading module: BLTModManager 
+05:13:37 AM Lua: [INFO] [BLT] Loading module: BLTKeybindsManager 
+05:13:37 AM Lua: [INFO] [BLT] Loading module: BLTPersistScripts 
+05:13:37 AM Lua: [INFO] [BLT] Loading module: BLTLocalization 
+05:13:37 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s) 
+05:13:37 AM Lua: [INFO] [BLT] Loading mods for state: table: 0x2c203480 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: base 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: cableties-and-hostages 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: Drone Sentries 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: Jammed Drill Rollin 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: Little-Intelligence-Enhancements-main 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: Meth Helper Updated 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: Meth Lab Basement 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: More loot from lootbags 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: Realtime XP 
+05:13:37 AM Lua: [INFO] [BLT] Loading mod: TacticalReloading 
+05:13:37 AM Lua: [ERROR] Could not load file 'mods/saves/blt_data.txt', no data loaded... 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  base 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  Jammed Drill Rollin 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  Realtime XP 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  Meth Lab Basement 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  More loot from lootbags 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  Meth Helper Updated 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  Little-Intelligence-Enhancements-main 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  cableties-and-hostages 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  Drone Sentries 
+05:13:37 AM Lua: [INFO] [BLT] Setting up mod:  TacticalReloading 
+05:13:47 AM Lua: LIES: Checking for update data.
+05:13:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://raw.githubusercontent.com/fuglore/Little-Intelligence-Enhancements/auto-updates/autoupdate.json
+05:13:47 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:51) CURL_INITD
+05:13:47 AM Lua: [INFO] [Keybind] Registered keybind [BLTKeybind methhelperupdated_keybind_toggle_enabled] 
+05:13:47 AM Lua: LIES: Received update data.
+05:13:55 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 258683 files in 23937 ms
+05:14:25 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://znix.xyz/paydaymods/updates/meta.php?id=payday2blt
+05:14:25 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://znix.xyz/paydaymods/updates/meta.php?id=payday2bltwsockdll
+05:14:25 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json
+05:14:26 AM Lua: [INFO] [Updates] Received update data for 'payday2blt' 
+05:14:26 AM Lua: [INFO] [Updates] Received update data for 'CTH' 
+05:14:26 AM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll' 
+05:14:26 AM Lua: [INFO] [Updates] Comparing hash data for CTH:
+Server: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+ Local: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4 
+05:14:26 AM Lua: [INFO] [Updates] Comparing hash data for payday2bltwsockdll:
+Server: fa40493b76e324fbe87fb8eb6121e608fa3da33776bb5e787b93ad8e3e47de8f
+ Local: fa40493b76e324fbe87fb8eb6121e608fa3da33776bb5e787b93ad8e3e47de8f 
+05:14:26 AM Lua: [INFO] [Updates] Comparing hash data for payday2blt:
+Server: 7300b8ea87e0e794af2fb7c56298d7a46c172674304fb21e6c69e5c402f7f4a6
+ Local: 7300b8ea87e0e794af2fb7c56298d7a46c172674304fb21e6c69e5c402f7f4a6 
+05:14:30 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:57) CURL CLOSED
+05:14:30 AM Log:  (C:\projects\payday2-superblt\src\xaudio\XAudio.cpp:137) Closing OpenAL XAudio API

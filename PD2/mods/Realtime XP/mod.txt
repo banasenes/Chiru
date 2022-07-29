@@ -1,0 +1,16 @@
+{
+	"name": "Realtime XP",
+	"description": "Changes the leveling mechanic. You will get experience right away while playing just like it was in PAYDAY: The Heist. Useful on heists where you're getting experience from objectives.",
+	"author": "James",
+	"version": "9",
+	"priority": 10,
+	"blt_version": 2,
+	"hooks": [
+		{"hook_id": "lib/managers/localizationmanager",				"script_path": "exp.lua"},
+		{"hook_id": "lib/managers/experiencemanager",				"script_path": "exp.lua"},
+		{"hook_id": "lib/managers/gageassignmentmanager",			"script_path": "exp.lua"},
+		{"hook_id": "lib/managers/hud/hudchallengenotification",	"script_path": "exp.lua"},
+		{"hook_id": "lib/managers/hud/hudstageendscreen",			"script_path": "exp.lua"},
+		{"hook_id": "lib/managers/hud/newhudstatsscreen", 			"script_path": "exp.lua"}
+	]
+}

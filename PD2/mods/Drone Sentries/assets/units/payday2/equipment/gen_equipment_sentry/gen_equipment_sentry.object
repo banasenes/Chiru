@@ -1,0 +1,63 @@
+<dynamic_object>
+	<diesel orientation_object="rp_sentry" materials="units/payday2/equipment/gen_equipment_sentry/gen_equipment_sentry"/>
+	<sequence_manager file="units/payday2/equipment/gen_equipment_sentry/gen_equipment_sentry"/>
+
+	<bodies>
+		<body name="hitbox" enabled="true" collision_class="character" template="animated" collides_with_mover="false">
+			<object name="a_gun"/>
+			<object name="c_box_hit" collision_type="box" padding="-2.5"/>
+		</body>
+
+		<body name="bag" enabled="true" collision_class="character" template="animated" collides_with_mover="false">
+			<object name="a_propeller"/>
+			<object name="c_box_propeller_r" collision_type="box" padding="-2.5"/>
+			<object name="c_box_propeller_l" collision_type="box" padding="-2.5"/>
+		</body>
+
+		<body name="shield" enabled="false" collision_class="character" template="animated" collides_with_mover="false">
+			<object name="a_gun"/>
+			<object name="c_box_shield_1" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_2" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_3" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_4" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_5" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_6" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_7" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_8" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_9" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shield_10" collision_type="box" padding="-2.5"/>
+			<!-- why you crash >:(
+			<object name="c_mesh_shield" collision_type="mesh_mopp"/>
+			<object name="c_mesh_shield_r" collision_type="mesh_mopp"/>
+			<object name="c_mesh_shield_l" collision_type="mesh_mopp"/>
+			-->
+		</body>
+
+		<body name="dynamic_base" enabled="false" collision_class="bag" template="dynamic_no_ray" collides_with_mover="false">
+			<object name="a_turret"/>
+			<object name="c_box_hit" collision_type="box" padding="-2.5"/>
+			<object name="c_box_propeller" collision_type="box" padding="-2.5"/>
+		</body>
+	</bodies>
+
+	<decal_surfaces default_material="metal"/>
+
+	<graphics>
+		<graphic_group name="g_sentry_gun" enabled="true" culling_object="co_sentry">
+			<object name="g_drone" enabled="true"/>
+			<object name="g_supp" enabled="false"/>
+			<object name="g_propeller" enabled="true"/>
+			<object name="g_propeller_r" enabled="true"/>
+			<object name="g_propeller_l" enabled="true"/>
+			<object name="g_shield" enabled="false"/>
+			<object name="g_shield_r" enabled="false"/>
+			<object name="g_shield_l" enabled="false"/>
+			<object name="s_drone" enabled="true" shadow_caster="true"/>
+			<object name="s_propeller" enabled="true" shadow_caster="true"/>
+			<object name="s_shield" enabled="false" shadow_caster="true"/>
+			<object name="s_shield_r" enabled="false" shadow_caster="true"/>
+			<object name="s_shield_l" enabled="false" shadow_caster="true"/>
+		</graphic_group>
+	</graphics>
+
+</dynamic_object>

@@ -1,0 +1,34 @@
+<materials version="3">
+
+	<material name="mtr_drone" version="2" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP">
+		<diffuse_texture file="units/payday2/equipment/gen_equipment_sentry/sentry_df"/>
+		<bump_normal_texture file="units/payday2/equipment/gen_equipment_sentry/sentry_nm"/>
+
+		<variable value="1 1 1" type="vector3" name="contour_color"/>
+		<variable value="0" type="scalar" name="contour_opacity"/>
+	</material>
+
+	<material name="mtr_drone_2" version="2" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP">
+		<diffuse_texture file="units/payday2/equipment/gen_equipment_sentry/supp_df"/>
+		<bump_normal_texture file="units/payday2/equipment/gen_equipment_sentry/supp_nm"/>
+
+		<variable value="1 1 1" type="vector3" name="contour_color"/>
+		<variable value="0" type="scalar" name="contour_opacity"/>
+	</material>
+
+	<material name="mtr_propeller" version="2" render_template="effect:DIFFUSE0_TEXTURE:DIFFUSE1_TEXTURE">
+		<diffuse_texture file="units/payday2/equipment/gen_equipment_sentry/propeller_df"/>
+		<detail_diffuse_texture file="units/payday2/equipment/gen_equipment_sentry/propeller_df"/>
+		<variable value="identity" type="scalar" name="intensity"/>
+	</material>
+
+	<material name="mtr_glow" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM" version="2">
+		<diffuse_texture file="units/payday2/equipment/gen_equipment_sentry/glow_df"/>
+		<self_illumination_texture file="units/payday2/equipment/gen_equipment_sentry/glow_df"/>
+		<variable value="sun" type="scalar" name="il_multiplier"/>
+		<variable value="10" type="scalar" name="il_bloom"/>
+	</material>
+
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+
+</materials>

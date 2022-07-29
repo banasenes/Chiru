@@ -1,0 +1,15 @@
+{
+	"name" : "Meth Lab in Basement",
+	"description" : "Allows you to spawn meth lab in basement",
+	"author" : "uziel2021, LupposuzTurkey, NotStraj#9696",
+	"contact" : "NotStraj#9696",
+	"version" : "1.00",
+	"blt_version" : 2,
+	"color" : "255 255 0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/mission/missionscriptelement",
+			"script_path" : "lua/hook.lua"
+		}
+	]
+}

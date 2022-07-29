@@ -1,0 +1,8 @@
+{
+	"name" : "Drone Sentries",
+	"description" : "Converts Sentries into Drones that can move around",
+	"author" : "Hoppip, KillerKrayola, Matthelzor",
+	"color" : "0.043 0.808 0.6",
+	"image" : "mod.png",
+	"version" : "1.0.2"
+}

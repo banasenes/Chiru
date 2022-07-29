@@ -1,0 +1,48 @@
+{
+	"menu_id" : "RealtimeXP_Main_Menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "menu_RealtimeXP_name",
+	"description" : "",
+	"items" : 
+	[
+		{
+			"type" : "toggle",
+			"id" : "RXP_allow_bottom_tab",
+			"title" : "RXP_allow_bottom_tab",
+			"description" : "RXP_allow_bottom_tab_desc",
+			"callback" : "RXP_allow_bottom_tab_callback",
+			"value" : "allow_bottom_tab",
+			"default_value" : true,
+		},
+		{
+			"type" : "toggle",
+			"id" : "RXP_allow_save",
+			"title" : "RXP_allow_save",
+			"description" : "RXP_allow_save_desc",
+			"callback" : "RXP_allow_save_callback",
+			"value" : "allow_save",
+			"default_value" : true,
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "RXP_selected_jingle",
+			"title" : "RXP_selected_jingle",
+			"description" : "RXP_selected_jingle_desc",
+			"callback" : "RXP_selected_jingle_callback",
+			"items" : [
+				"rxp_selected_jingle_0",
+				"rxp_selected_jingle_1",
+				"rxp_selected_jingle_2",
+				"rxp_selected_jingle_3",
+				"rxp_selected_jingle_4",
+				"rxp_selected_jingle_5",
+				"rxp_selected_jingle_6",
+				"rxp_selected_jingle_7",
+				"rxp_selected_jingle_8",
+				"rxp_selected_jingle_9"
+			],
+			"value" : "selected_jingle",
+			"default_value" : 2
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name":"More_loot_from_lootbags",
+	"description":"You get 10x more loot from every lootbag",
+	"author":"Tokyo_uu",
+	"contact":"Tokyo#3373",
+	"version":"1",
+	"color": "139 0 139",
+	"blt_version": 2,
+	"hooks" :
+	[
+		{	"hook_id":"lib/tweak_data/moneytweakdata",
+		 	"script_path":"moneytweakdata.lua"
+		},
+	]
+}
